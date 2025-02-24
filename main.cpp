@@ -9,4 +9,5 @@ int main ()
 void function()
 {
     cout <<"asdasd";
+    cout <<"sadsad";
 }
